@@ -1,0 +1,4 @@
+class ez_bus
+{
+
+}
